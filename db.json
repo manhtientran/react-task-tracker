@@ -10,7 +10,7 @@
       "id": 4,
       "text": "Meeting with Boss",
       "day": "Feb 6th at 1:30am",
-      "reminder": false
+      "reminder": true
     },
     {
       "text": "test 1",
